@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "discord": {
+      "command": "node",
+      "args": ["/absolute/path/to/discord-mcp/dist/index.js"],
+      "env": {
+        "DISCORD_BOT_TOKEN": "your_bot_token_here"
+      }
+    }
+  }
+}
